@@ -21,6 +21,7 @@ Cada grupo va a practicar el flujo de git visto en clase, siendo creativos :-)
 * El propietario del repositorio asigna a cada miembro del grupo un bloque de tres líneas vacías para trabajar (2-4, 5-7, 8-10, 11-13).
 * Cada miembro del grupo escribe un minion en sus tres líneas asignadas entre el mensaje de "Banana" y el mensaje de "Papaya".
 * Un [minion ipsum](https://www.minionsipsum.com) es un lorem ipsum pero con más gracia.
+* Pueden usar también las 40 frases del lenguaje [minon](https://portalfrases.com/frases-de-los-minions/)
 * Una vez que cada miembro del grupo haya escrito su obra maestra (banana? iiiii tatata bala tu uuuhhh hahaha), deberá guardarla y enviarla a una rama remota del repositorio.
 * Todo el mundo debe crear pull requests a la vez - Esto simula el peor caso posible de cuatro personas tratando de alterar el mismo archivo al mismo tiempo (y pasa, créanme)
 * Una vez que las solicitudes de pull han sido creadas, cada miembro del grupo debe revisar por turno las solicitudes de fusión.
